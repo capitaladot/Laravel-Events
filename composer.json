@@ -1,5 +1,5 @@
 {
-    "name": "fbf/laravel-events",
+    "name": "capitaladot/laravel-events",
     "description": "A Laravel 4 package to add events listings to a site",
     "keywords": ["laravel","events"],
     "license": "MIT",
